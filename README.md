@@ -33,7 +33,7 @@ task_manager_go/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/task_manager_go.git
+git clone https://github.com/alexonlyman/task_manager_go.git
 cd task_manager_go
 ```
 
